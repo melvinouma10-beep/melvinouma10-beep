@@ -1,4 +1,4 @@
-## Hi there 👋
+##Data science undergraduate
 
 <!--
 **melvinouma10-beep/melvinouma10-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
